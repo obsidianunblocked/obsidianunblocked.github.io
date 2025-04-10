@@ -3,8 +3,8 @@ const fs = require('fs');
 const path = require('path');
 
 // String to find and replace
-const oldDomain = "Unblocked";
-const newDomain = "Unblocked";
+const oldDomain = "ObsidianUnblocked.github.io";
+const newDomain = "ObsidianUnblocked.github.io";
 
 // Track statistics
 let filesScanned = 0;
